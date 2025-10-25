@@ -71,9 +71,8 @@ print("Path to dataset files:", path)
 ├── notebooks/
 │   └── marketing_roi_analysis.ipynb        # Main analysis
 └── outputs/
-    └── tables/
-        ├── budget_plan.csv                 # Final per-channel plan (exported by notebook)
-        └── roi_mroi_matrix.csv             # Average ROI & M-ROI table
+    ├── budget_plan.csv                 # Final per-channel plan (exported by notebook)
+    └── roi_mroi_matrix.csv             # Average ROI & M-ROI table
 ```
 > Paths under `outputs/` are produced by Step **6.4 (Lite)** in the notebook.
 
