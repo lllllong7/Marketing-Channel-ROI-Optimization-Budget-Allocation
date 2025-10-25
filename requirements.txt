@@ -1,0 +1,19 @@
+# Core
+pandas>=2.2
+numpy>=1.26
+
+# Visualization
+plotly>=5.24
+
+# Statistics / Causal
+statsmodels>=0.14
+scikit-learn>=1.4
+scipy>=1.11
+patsy>=0.5
+
+# Notebook / Export
+ipykernel>=6.29
+nbconvert>=7.16
+
+# (Optional) Kaggle for data access
+kagglehub>=1.6.0
